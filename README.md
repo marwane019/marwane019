@@ -4,17 +4,12 @@ I'm a Computer Science graduate based in London with a passion for turning data 
 
 ## 📂 Featured Projects
 
-- **[data‑analysis‑portfolio](https://github.com/marwane019/data-analysis-portfolio)** – A fully interactive data analysis portfolio showcasing a synthetic mobility dataset with daily and weekly trends. Built with Python for data generation and Chart.js for the front‑end, it includes an interactive line chart, bar chart, downloadable data/README, and a polished GitHub Pages site. [View it live](https://marwane019.github.io/data-analysis-portfolio/).
+- **[data-analysis-portfolio](https://github.com/marwane019/data-analysis-portfolio)** – Live interactive data analysis demo using Chart.js and a synthetic mobility dataset. [View it here](https://marwane019.github.io/data-analysis-portfolio/).
 
-- **[Titanic‑Survival‑Prediction](https://github.com/marwane019/Titanic-Survival-Prediction)** – A classic machine learning project predicting passenger survival using logistic regression and feature engineering.
+- **[london-mobility-dashboard](https://github.com/marwane019/london-mobility-dashboard)** – Live end‑to‑end London mobility project with ETL, KPIs, forecasts and interactive dashboards. [View it here](https://marwane019.github.io/london-mobility-dashboard/).
 
-- **[GravitySim](https://github.com/marwane019/GravitySim)** – A simple gravity simulator built with Python and Pygame, modelling bodies under Newtonian gravitation.
-
-- **[CMB‑Spectrum‑Model](https://github.com/marwane019/CMB-Spectrum-Model)** – A computational astrophysics project modelling the cosmic microwave background power spectrum.
-
-For more, check out my [repositories page](https://github.com/marwane019?tab=repositories).
-
-## 🤝 Contact
+- **[perf-bench](https://github.com/marwane019/perf-bench)** – Live browser performance lab measuring CPU, GPU, memory and input latency with neon UI and live charts. [Try it here](https://marwane019.github.io/perf-bench/).
+  🤝 Contact
 
 I'm actively exploring junior roles in data analysis, software engineering, and product analytics (hybrid/remote). Feel free to reach out via:
 
