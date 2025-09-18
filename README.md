@@ -14,7 +14,7 @@ I'm a Computer Science graduate based in London with a passion for turning data 
 📩 Contact
 
 
-I'm actively exploring junior roles in data analysis, software engineering, and product analytics (hybrid/remote). Feel free to reach out via:
+I'm actively exploring roles in data analysis, software engineering, and product analytics (hybrid/remote). Feel free to reach out via:
 
 - Email: [ambrosetheshield6@gmail.com](mailto:ambrosetheshield6@gmail.com)
 - LinkedIn: [marwane‑bakkali‑hassani](https://www.linkedin.com/in/marwane-bakkali-hassani-8168b9335/)
