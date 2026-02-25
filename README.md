@@ -1,23 +1,33 @@
 # Hi, I'm Marwane Bakkali Hassani 👋
 
-I'm a Computer Science graduate based in London with a passion for turning data into insights and shipping clean code. I build end‑to‑end solutions that start with messy CSV/JSON and end with tidy datasets, interactive dashboards, and clear summaries. My toolkit includes Python, SQL, pandas, ETL pipelines, Chart.js, Git/GitHub, and solid data structures & algorithms fundamentals.
+**BI & MI Analyst | Automation & Reporting | London (Hybrid)**
 
-## 📂 Featured Projects
+I design automated decision systems — from raw data to executive output, with quality gates and alerting at every stage. Based in London, open to hybrid roles. Graduate Visa (right to work now); will require Skilled Worker sponsorship.
 
-- **[data-analysis-portfolio](https://github.com/marwane019/data-analysis-portfolio)** – Live interactive data analysis demo using Chart.js and a synthetic mobility dataset. [View it here](https://marwane019.github.io/data-analysis-portfolio/).o/).
+---
 
-- * [london-mobility-dashboard](https://github.com/marwane019/london-mobility-dashboard)** – Live end-to-end London mobility project with ETL, KPIs, forecasts and interactive dashboards. [View it here](https://marwane019.github.io/london-mobility-dashboard/).
+## 🚀 Flagship Projects
 
-- **[perf-bench](https://github.com/marwane019/perf-bench)** – Live browser performance lab measuring CPU, GPU, memory and input latency with neon UI and live charts. [Try it here](https://marwane019.github.io/perf-bench/).
+- **[board-report-generator](https://github.com/marwane019/board-report-generator)** — Automated pipeline that generates a 7-page PDF board pack, 6-tab Excel data pack, and interactive Plotly dashboard every Monday at 06:00. Deployed on **Azure Container Apps** via Docker + GitHub Actions CI/CD. [[Live service]](https://board-report-app.agreeablerock-fccd010a.uksouth.azurecontainerapps.io/health)
 
-## 
-📩 Contact
+- - **[cost-leakage-detector](https://github.com/marwane019/cost-leakage-detector)** — Anomaly detection engine for procurement data: flags duplicate invoices, supplier overcharges, SLA breaches & volume spikes with severity scoring, Excel report, Plotly dashboard & Slack webhook alerts.
+ 
+  - - **[london-mobility-dashboard](https://github.com/marwane019/london-mobility-dashboard)** — End-to-end London mobility project: ETL → KPIs → forecast → interactive dashboard. [[View it here]](https://marwane019.github.io/london-mobility-dashboard/)
+   
+    - ---
 
+    ## 🛠️ Tech Stack
 
-I'm actively exploring roles in data analysis, software engineering, and product analytics (hybrid/remote). Feel free to reach out via:
+    **BI & Reporting:** Power BI (DAX, Power Query) · Plotly · Excel (openpyxl) · ReportLab PDF
+    **Data Engineering:** Python · pandas · NumPy · ETL pipelines · data quality gates
+    **Automation:** APScheduler · n8n-compatible design · Slack webhooks · GitHub Actions CI/CD
+    **Cloud & DevOps:** Azure Container Apps · Docker · Azure Container Registry
+    **Other:** SQL · Git · Chart.js
 
-- Email: [ambrosetheshield6@gmail.com](mailto:ambrosetheshield6@gmail.com)
-- LinkedIn: [marwane‑bakkali‑hassani](https://www.linkedin.com/in/marwane-bakkali-hassani-8168b9335/)
-- Portfolio: [marwane019.github.io/data‑analysis‑portfolio](https://marwane019.github.io/data-analysis-portfolio/)
+    ---
 
-Thanks for stopping by!
+    ## 📬 Contact
+
+    - Email: ambrosetheshield6@gmail.com
+    - - LinkedIn: [marwane-bakkali-hassani](https://www.linkedin.com/in/marwane-bakkali-hassani-8168b9335/)
+      - - Portfolio: [marwane019.github.io/data-analysis-portfolio](https://marwane019.github.io/data-analysis-portfolio/)
