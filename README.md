@@ -1,4 +1,4 @@
-# Hi, I'm Marwane Bakkali Hassani 👋
+# Hi, I'm Marwane Hassani 👋
 
 **BI & MI Analyst | Automation & Reporting | London (Hybrid)**
 
